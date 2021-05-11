@@ -149,4 +149,4 @@ function newFeature(){
   console.log('Welcome to the application');
 }
 
-newFeature();
+newFeature(); 
