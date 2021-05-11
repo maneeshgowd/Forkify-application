@@ -145,5 +145,8 @@ export const uploadRecipe = async function (newRecipe) {
   }
 };
 
+function newFeature(){
+  console.log('Welcome to the application');
+}
 
-console.log('yes');
+newFeature();
